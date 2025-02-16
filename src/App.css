@@ -12,7 +12,9 @@ html, body {
   align-items: center;
   color: white;
   width: 90%;
-  margin: 30px 20px;
+  max-width: 100%;
+  margin: auto;
+  
 
 
 }
@@ -26,7 +28,7 @@ html, body {
   flex-direction: row; 
   gap: 10px;
   width: 100%;
-  max-width: 100%;
+
 }
 
 .input-field {
