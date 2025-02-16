@@ -1,4 +1,4 @@
-#Task List App
+# Task List App
 
 # Project Description
 
@@ -16,18 +16,18 @@ Make sure you have the following installed on your system:
 
 # Steps to Set Up and Run the Project
 
-1. Clone the Repository
+1.Clone the Repository
 
   git clone https://github.com/Feven777/Task-List-App.git
   cd Task-List-App
 
 2.Install Dependencies
 
-  npm install  # or yarn install
+   npm install  or  yarn install
 
-  Start the Application
+   Start the Application
 
-  npm start  # or yarn start
+   npm start  or  yarn start
 
 The app will be available at http://localhost:3000/ in your browser.
 
