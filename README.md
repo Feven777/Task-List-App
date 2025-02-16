@@ -23,11 +23,11 @@ Make sure you have the following installed on your system:
 
 2.Install Dependencies
 
-   npm install  or  yarn install
+   - npm install  or  yarn install
 
-   Start the Application
+3. Start the Application
 
-   npm start  or  yarn start
+   - npm start  or  yarn start
 
 The app will be available at http://localhost:3000/ in your browser.
 
