@@ -25,7 +25,7 @@ Make sure you have the following installed on your system:
 
    - npm install  or  yarn install
 
-3. Start the Application
+3.Start the Application
 
    - npm start  or  yarn start
 
