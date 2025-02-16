@@ -10,9 +10,9 @@ Task List App is a simple and intuitive task management application built using 
 
 Make sure you have the following installed on your system:
 
-- Node.js (Download from here)
+- Node.js 
 
-- npm (comes with Node.js) or yarn (alternative package manager)
+- npm (comes with Node.js) or yarn 
 
 # Steps to Set Up and Run the Project
 
